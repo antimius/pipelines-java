@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jvanheerde/fabric/_apis/build/status/antimius.pipelines-java?branchName=master)](https://dev.azure.com/jvanheerde/fabric/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
